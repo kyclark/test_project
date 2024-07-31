@@ -1,2 +1,7 @@
-# test_project
-Test project blah blah blah
+# Test project
+
+This is my stuff.
+
+## Author 
+
+Ken Youens-Clark <kyclark@gmail.com>
